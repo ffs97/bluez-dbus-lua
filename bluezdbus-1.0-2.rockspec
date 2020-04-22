@@ -1,5 +1,5 @@
 package = "bluezdbus"
-version = "1.0-1"
+version = "1.0-2"
 source = {
     url = "git+ssh://git@github.com/ffs97/bluezdbus-lua.git",
     tag = "v1.0"
